@@ -7,4 +7,4 @@ if number1>number2:
 else:
 	print("A < B")
 summa = number1 + number2				
-print("Summa=", summa)
+print("Summa1=", summa)
